@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "Giulia Lobsiger"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = "Meine Reportage"
 +++
 ![](/img/default-author.jpg)
 
