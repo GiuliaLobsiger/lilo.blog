@@ -6,7 +6,7 @@ description = "Meine Reportage"
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Giulia Lobsiger
 
 mail@example.org
 
