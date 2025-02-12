@@ -11,6 +11,8 @@ Hansueli Lauber, ein Mitarbeiter der AVC in Safnern, der mit seinen Logistikkün
 
 `{{</lead>}}`
 
+`Vanessa Bärtschi & Giulia Lobsiger`
+
 Neben einer geräumigen Lagerhalle, in einem warmen Bürozimmer, sitz Hansueli mit einem gespannten Blick und einem erwartungsvollen Lächeln auf dem Gesicht und wartet darauf, von seiner Arbeit erzählen zu können. Hansueli ist seit 25 Jahren in der Logistik der AVC in Safnern tätig. Er fährt drei Tage die Woche mit dem Lastwagen durch die Gegend, transportiert dabei Leergebinde zurück in die Migros, beladet neue Ware der Migros und anschliessend fährt zur Caritas, wo er knapp 10 Paletten an Lebensmitteln bekommt. Er holt unter anderem auch Kleidung von Secondhand Shops und alte Velos vom Schrottplatz ab und besorgt von verschiedenen Firmen gebrauchtes Verpackungsmaterial. Dies alles tut er, um den Ärmsten und Bedürftigsten dieser Welt helfen zu können.
 
 **Gibt es Ereignisse oder Geschichten, die Sie besonders gerührt haben?**
