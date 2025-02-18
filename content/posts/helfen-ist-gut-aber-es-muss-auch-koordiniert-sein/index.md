@@ -1,6 +1,6 @@
 +++
 title = "Helfen ist gut, aber es muss auch koordiniert sein."
-date = "2025-02-12"
+date = "2025-02-18"
 draft = false
 pinned = false
 image = "hansuelilauber-1-.jpg"
